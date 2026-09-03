@@ -32,7 +32,7 @@ Building **[defex](https://defex.app)** — AI defect inspection on NVIDIA Jetso
 
 | Project | What it is |
 |---|---|
-| [defex-landing](https://github.com/PeterVanPercson/defex-landing) | defex.app — Django on Vercel, bilingual (EN/中文), live inspection demo card |
+| [defex-landing](https://github.com/PeterVanPercson/defex-landing) | defex.app — Django on Vercel, bilingual (EN/中文), live inspection demo card. Built with my twin [Hasan](https://github.com/hasan-mavlonov), defex CTO |
 | [husanmavlonov.com](https://github.com/PeterVanPercson/husanmavlonov.com) | Hand-built personal site. Halftone-cloud sky by day, cross-stitch orcas by night — the orcas are lifted from a real family embroidery |
 | [buildcored-orcas](https://github.com/PeterVanPercson/buildcored-orcas) | The Orcas challenge engine — 30 days, one real project a day, miss one and you're out |
 | [buildcored-orcas-site](https://github.com/PeterVanPercson/buildcored-orcas-site) | Orcas v1.5 landing + the 30-project showcase |
