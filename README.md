@@ -7,7 +7,6 @@ Building **[defex](https://defex.app)** — AI defect inspection on NVIDIA Jetso
 | May 2026 | **[defex](https://defex.app)** | Founder · defect inspection for the factories Cognex and Keyence skip — Jetson edge AI, installed in a day, $4,900 + $350/mo. First line in production: textile factory, Uzbekistan, May 2026 | San Francisco |
 | 2026 | **[BuildCored](https://buildcored.com)** | Founder · community of 1,500+ AI & hardware builders · funded by Uzbekistan's Youth Affairs Agency · home of Orcas | Shanghai · Tashkent |
 | 2026 | **[mindform](https://mindform-ai.com)** | Co-founder · the personality layer for AI — memory, tone, and character that persist across sessions · with [Nuo Chen](https://github.com/Reason-Wang) (NUS) | remote · Shanghai |
-| 2026 | **Z Fellows** | Fellow | San Francisco |
 | 2026 | **Founders, Inc.** | Fellow | San Francisco |
 | 2026 | **Silkroad Innovation Hub** | Fellow · backs defex | Menlo Park, CA |
 
