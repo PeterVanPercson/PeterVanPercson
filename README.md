@@ -1,10 +1,10 @@
-Building **[defex](https://defex.app)** — AI defect inspection on NVIDIA Jetson — from **[powell.st](https://powell.st)**, San Francisco. Founder of **[BuildCored](https://buildcored.com)** (1,500+ builders). Dropout of the UM–SJTU Joint Institute.
+Building **[defex](https://defex.app)** — self-teaching robots for manufacturing — from **[powell.st](https://powell.st)**, San Francisco. Founder of **[BuildCored](https://buildcored.com)** (1,500+ builders). Dropout of the UM–SJTU Joint Institute.
 
 ## What I'm Building
 
 | Since | Where | What | |
 |---|---|---|---|
-| May 2026 | **[defex](https://defex.app)** | Founder · defect inspection for the factories Cognex and Keyence skip — Jetson edge AI, installed in a day, $4,900 + $350/mo. First line in production: textile factory, Uzbekistan, May 2026 | San Francisco |
+| May 2026 | **[defex](https://defex.app)** | Founder · self-teaching robots for manufacturing — assembly robots that practice, test the joint they just made, and reset for the next attempt. First workstation: connector assembly | San Francisco |
 | 2026 | **[BuildCored](https://buildcored.com)** | Founder · community of 1,500+ AI & hardware builders · funded by Uzbekistan's Youth Affairs Agency · home of Orcas | Shanghai · Tashkent |
 | 2026 | **[mindform](https://mindform-ai.com)** | Co-founder · the personality layer for AI — memory, tone, and character that persist across sessions · with [Nuo Chen](https://github.com/Reason-Wang) (NUS) | remote · Shanghai |
 | 2026 | **Founders, Inc.** | Fellow | San Francisco |
@@ -32,7 +32,7 @@ Building **[defex](https://defex.app)** — AI defect inspection on NVIDIA Jetso
 
 | Project | What it is |
 |---|---|
-| [defex-landing](https://github.com/PeterVanPercson/defex-landing) | defex.app — Django on Vercel, bilingual (EN/中文), live inspection demo card. Built with my twin [Hasan](https://github.com/hasan-mavlonov), defex CTO |
+| [defex-landing](https://github.com/PeterVanPercson/defex-landing) | defex.app — the site for self-teaching robots for manufacturing, Django on Vercel. Built with my twin [Hasan](https://github.com/hasan-mavlonov), defex CTO |
 | [husanmavlonov.com](https://github.com/PeterVanPercson/husanmavlonov.com) | Hand-built personal site. Halftone-cloud sky by day, cross-stitch orcas by night — the orcas are lifted from a real family embroidery |
 | [buildcored-orcas](https://github.com/PeterVanPercson/buildcored-orcas) | The Orcas challenge engine — 30 days, one real project a day, miss one and you're out |
 | [buildcored-orcas-site](https://github.com/PeterVanPercson/buildcored-orcas-site) | Orcas v1.5 landing + the 30-project showcase |
