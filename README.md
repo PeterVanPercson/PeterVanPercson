@@ -7,7 +7,6 @@ Building **[defex](https://defex.app)** — self-teaching robots for manufacturi
 | May 2026 | **[defex](https://defex.app)** | Founder · self-teaching robots for manufacturing — assembly robots that practice, test the joint they just made, and reset for the next attempt. First workstation: connector assembly | San Francisco |
 | 2026 | **[BuildCored](https://buildcored.com)** | Founder · community of 1,500+ AI & hardware builders · funded by Uzbekistan's Youth Affairs Agency · home of Orcas | Shanghai · Tashkent |
 | 2026 | **[mindform](https://mindform-ai.com)** | Co-founder · the personality layer for AI — memory, tone, and character that persist across sessions · with [Nuo Chen](https://github.com/Reason-Wang) (NUS) | remote · Shanghai |
-| 2026 | **Founders, Inc.** | Fellow | San Francisco |
 | 2026 | **Silkroad Innovation Hub** | Fellow · backs defex | Menlo Park, CA |
 
 ## Tech Stack
