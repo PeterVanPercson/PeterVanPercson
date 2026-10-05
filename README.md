@@ -1,4 +1,4 @@
-Co-founder & CEO of **[Defex Robotics](https://defexrobotics.com)** — self-teaching robots for manufacturing. Ex-researcher at the University of Michigan and Shanghai Jiao Tong University. Co-founder of **[BuildCored](https://buildcored.com)** (1,500+ engineering students). San Francisco.
+Co-founder & CEO of [Defex Robotics](https://defexrobotics.com). Ex-researcher at the University of Michigan and Shanghai Jiao Tong. I live in San Francisco.
 
 ## Experience
 
@@ -12,46 +12,17 @@ Co-founder & CEO of **[Defex Robotics](https://defexrobotics.com)** — self-tea
 | <img src="https://husanmavlonov.com/logos/lumiere.jpeg" width="28" height="28" alt="" align="absmiddle">&nbsp;**[Lumiere Education](https://www.lumiere-education.com/)** | Research scholar | Feb 2026 – Jun 2026 | Meta-analysis of 80 battery-AI datasets. |
 | <img src="https://husanmavlonov.com/logos/silkroad.jpeg" width="28" height="28" alt="" align="absmiddle">&nbsp;**[Silkroad Fellows](https://silkroadinnovationhub.com/)** | Fellow | Jul 2026 – Aug 2026 | One of ten fellows, Menlo Park. |
 | <img src="https://husanmavlonov.com/logos/tracky.jpeg" width="28" height="28" alt="" align="absmiddle">&nbsp;**Tracky POS** | Co-founder | Jun 2025 – Jan 2026 | Cut RFID labeling costs 97% for retail shops. |
-| <img src="https://husanmavlonov.com/logos/brandcenter.jpeg" width="28" height="28" alt="" align="absmiddle">&nbsp;**BC Brand Center** | Co-founder | Uzbekistan | Clothing shop. $20K monthly revenue within two months. |
 | <img src="https://husanmavlonov.com/logos/top100uni.jpeg" width="28" height="28" alt="" align="absmiddle">&nbsp;**[Top100Uni Project](https://topcoachuni.com/)** | Mentor | May 2025 – Jul 2025 | Mentored top-university applicants. |
 | <img src="https://husanmavlonov.com/logos/non-trivial.jpeg" width="28" height="28" alt="" align="absmiddle">&nbsp;**[Non-Trivial](https://www.non-trivial.org/)** | Fellow | Feb 2025 – Apr 2025 | Selective fellowship for young people on big problems. |
 | <img src="https://husanmavlonov.com/logos/tks.jpeg?v=2" width="28" height="28" alt="" align="absmiddle">&nbsp;**TKS** | Innovator | Full scholarship | First from Uzbekistan. Won a $10K hackathon. |
 | <img src="https://husanmavlonov.com/logos/comu.jpeg" width="28" height="28" alt="" align="absmiddle">&nbsp;**[Çanakkale Onsekiz Mart University](https://www.comu.edu.tr/)** | Researcher | Sep 2024 – Jun 2025 | Polymer electrolytes for Li-ion batteries. |
-| **Arifov Institute of Ion-Plasma and Laser Technologies** | Research assistant | Jun 2024 – Sep 2024 | Lithium-ion battery materials. Physics workshop for 250+ students. |
+| <img src="https://husanmavlonov.com/logos/arifov.jpeg?v=2" width="28" height="28" alt="" align="absmiddle">&nbsp;**[Arifov Institute of Ion-Plasma and Laser Technologies](https://iplt.uz/en/homepage/)** | Research assistant | Jun 2024 – Sep 2024 | Lithium-ion battery materials. Physics workshop for 250+ students. |
 | <img src="https://husanmavlonov.com/logos/qvant.jpeg" width="28" height="28" alt="" align="absmiddle">&nbsp;**[QVANT Youth](https://www.instagram.com/qvant_youth/)** | Leading author | Jun 2023 – Jun 2025 | Science writing for Central Asian youth. |
+| <img src="https://husanmavlonov.com/logos/brandcenter.jpeg" width="28" height="28" alt="" align="absmiddle">&nbsp;**Brand Center** | Co-founder | 2021 – 2022 | Clothing shop. $20K monthly revenue within two months. |
 
-## Tech Stack
+## Orcas v1.5
 
-**Languages**
-
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-
-**Edge AI & Vision**
-
-<img alt="NVIDIA Jetson" src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> <img alt="TensorRT" src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=ultralytics&logoColor=white" /> <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img alt="MLX" src="https://img.shields.io/badge/MLX-000000?style=for-the-badge&logo=apple&logoColor=white" /> <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-
-**Web & Data**
-
-<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img alt="Next.js" src="https://img.shields.io/badge/Next%2Ejs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-**Ship & Run**
-
-<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" /> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-## Things I've Shipped
-
-| Project | What it is |
-|---|---|
-| [defex-landing](https://github.com/PeterVanPercson/defex-landing) | defexrobotics.com — the site for self-teaching robots for manufacturing, Django on Vercel. Built with my twin [Hasan](https://github.com/hasan-mavlonov), defex CTO |
-| [husanmavlonov.com](https://github.com/PeterVanPercson/husanmavlonov.com) | Hand-built personal site. Halftone-cloud sky by day, cross-stitch orcas by night — the orcas are lifted from a real family embroidery |
-| [buildcored-orcas](https://github.com/PeterVanPercson/buildcored-orcas) | The Orcas challenge engine — 30 days, one real project a day, miss one and you're out |
-| [buildcored-orcas-site](https://github.com/PeterVanPercson/buildcored-orcas-site) | Orcas v1.5 landing + the 30-project showcase |
-| [Telegram AI twin](https://github.com/PeterVanPercson/AI-That-Replies-to-Your-Telegram-DMs-as-You) | Your DMs on autopilot — local MLX + Qwen on a Mac, no cloud, no API costs, learns how you text |
-| [chinese-flashcards-level1](https://github.com/PeterVanPercson/chinese-flashcards-level1) | 拾级汉语 study PWA — audio, stroke order, dictation mode |
-
-## Orcas v1.5 — 30 Days, 30 Ships
-
-BuildCored's flagship: one real project every day for 30 days, across CV, local AI, signals, and systems. Miss a day and you're out. v1.5 ran with 10 builders — these are their ships, one repo a day, all shipped. Full showcase at [buildcored.com/projects](https://buildcored.com/projects/).
+Orcas is the 30-day build sprint we run at [BuildCored](https://buildcored.com): one project a day, skip a day and you're out. Ten builders ran v1.5. These are their projects. More at [buildcored.com/projects](https://buildcored.com/projects/).
 
 | Day | Project | Builder | What it does |
 |---|---|---|---|
@@ -86,14 +57,14 @@ BuildCored's flagship: one real project every day for 30 days, across CV, local 
 | 29 | [SilentAssistant](https://github.com/KMechanic/SilentAssistant) | Sharpvex | Camera sees you, AI understands, responds, speaks back. |
 | 30 | [OrcaOS](https://github.com/Botirsherov/OrcaOS) | Abdulatif | Combine the best of 30 days into one personal OS. Ship it. |
 
-Every build above is also forked into this account under `orcas-v15-*`, so the archive outlives any deleted repo.
+I forked every one of these into this account (`orcas-v15-*`) so they stay up even if the originals get deleted.
 
-v2.0 is open to anyone — [apply](https://buildcored.com).
+v2.0 is open. Apply at [buildcored.com](https://buildcored.com).
 
-## Off the Keyboard
+## Outside work
 
-Asian champion, Ashihara karate (2021). Five languages — en · ru · uz · tr · 中文.
+Asian champion in Ashihara karate (2021). I speak English, Russian, Uzbek, Turkish and Chinese.
 
-## Let's Connect
+## Contact
 
-<a href="mailto:husanmavlonov79@gmail.com"><img alt="EMAIL — HUSANMAVLONOV79@GMAIL.COM" src="https://img.shields.io/badge/EMAIL%20—%20HUSANMAVLONOV79@GMAIL%2ECOM-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://t.me/husanmd"><img alt="TELEGRAM" src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://www.linkedin.com/in/husan-mavlonov"><img alt="LINKEDIN" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://husanmavlonov.com"><img alt="HUSANMAVLONOV.COM" src="https://img.shields.io/badge/HUSANMAVLONOV%2ECOM-3C4C30?style=for-the-badge" /></a>
+[Email](mailto:husanmavlonov79@gmail.com) · [LinkedIn](https://www.linkedin.com/in/husan-mavlonov) · [X](https://x.com/MavlonovHusan) · [Instagram](https://www.instagram.com/mavhusan/) · [Telegram](https://t.me/husanmd) · [husanmavlonov.com](https://husanmavlonov.com)
