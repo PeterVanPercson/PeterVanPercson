@@ -1,11 +1,24 @@
-Co-founder & CEO of **[defex](https://defexrobotics.com)** — self-teaching robots for manufacturing — from **[powell.st](https://powell.st)**, San Francisco. Co-founder of **[BuildCored](https://buildcored.com)** (1,500+ builders). Dropout of the UM–SJTU Joint Institute.
+Co-founder & CEO of **[Defex Robotics](https://defexrobotics.com)** — self-teaching robots for manufacturing. Ex-researcher at the University of Michigan and Shanghai Jiao Tong University. Co-founder of **[BuildCored](https://buildcored.com)** (1,500+ engineering students). San Francisco.
 
-## What I'm Building
+## Experience
 
-| Since | Where | What | |
+| Where | Role | When | What |
 |---|---|---|---|
-| May 2026 | **[defex](https://defexrobotics.com)** | Co-founder & CEO · self-teaching robots for manufacturing — assembly robots that practice, test the joint they just made, and reset for the next attempt. First workstation: connector assembly | San Francisco |
-| 2026 | **[BuildCored](https://buildcored.com)** | Co-founder · community of 1,500+ AI & hardware builders · funded by Uzbekistan's Youth Affairs Agency · home of Orcas | Shanghai · Tashkent |
+| <img src="https://husanmavlonov.com/logos/defex.jpeg" width="28" height="28" alt="" align="absmiddle">&nbsp;**[Defex Robotics](https://defexrobotics.com/)** | Co-founder & CEO | Mar 2026 – now | Self-teaching robots for manufacturing. |
+| <img src="https://husanmavlonov.com/logos/powell.jpeg" width="28" height="28" alt="" align="absmiddle">&nbsp;**[Powell St](https://www.powell.st/)** | Resident | Sep 2026 – now | Hacker house. 10+ companies into YC and a16z speedrun. |
+| <img src="https://husanmavlonov.com/logos/michigan.jpeg" width="28" height="28" alt="" align="absmiddle">&nbsp;**[University of Michigan](https://umich.edu/)** | Student & researcher | 2025 – 2026 | UM–SJTU dual degree. Dropped out. |
+| <img src="https://husanmavlonov.com/logos/sjtu.jpeg" width="28" height="28" alt="" align="absmiddle">&nbsp;**[Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)** | Researcher | Jan 2026 – Jun 2026 | Optical diagnostics in Prof. David Hung’s lab. |
+| <img src="https://husanmavlonov.com/logos/buildcored.jpeg?v=2" width="28" height="28" alt="" align="absmiddle">&nbsp;**[BuildCored](https://buildcored.com/)** | Co-founder & CEO | Jan 2026 – now | Non-profit, 1,500+ engineering students. Runs Orcas, a 30-project build sprint. |
+| <img src="https://husanmavlonov.com/logos/lumiere.jpeg" width="28" height="28" alt="" align="absmiddle">&nbsp;**[Lumiere Education](https://www.lumiere-education.com/)** | Research scholar | Feb 2026 – Jun 2026 | Meta-analysis of 80 battery-AI datasets. |
+| <img src="https://husanmavlonov.com/logos/silkroad.jpeg" width="28" height="28" alt="" align="absmiddle">&nbsp;**[Silkroad Fellows](https://silkroadinnovationhub.com/)** | Fellow | Jul 2026 – Aug 2026 | One of ten fellows, Menlo Park. |
+| <img src="https://husanmavlonov.com/logos/tracky.jpeg" width="28" height="28" alt="" align="absmiddle">&nbsp;**Tracky POS** | Co-founder | Jun 2025 – Jan 2026 | Cut RFID labeling costs 97% for retail shops. |
+| <img src="https://husanmavlonov.com/logos/brandcenter.jpeg" width="28" height="28" alt="" align="absmiddle">&nbsp;**BC Brand Center** | Co-founder | Uzbekistan | Clothing shop. $20K monthly revenue within two months. |
+| <img src="https://husanmavlonov.com/logos/top100uni.jpeg" width="28" height="28" alt="" align="absmiddle">&nbsp;**[Top100Uni Project](https://topcoachuni.com/)** | Mentor | May 2025 – Jul 2025 | Mentored top-university applicants. |
+| <img src="https://husanmavlonov.com/logos/non-trivial.jpeg" width="28" height="28" alt="" align="absmiddle">&nbsp;**[Non-Trivial](https://www.non-trivial.org/)** | Fellow | Feb 2025 – Apr 2025 | Selective fellowship for young people on big problems. |
+| <img src="https://husanmavlonov.com/logos/tks.jpeg?v=2" width="28" height="28" alt="" align="absmiddle">&nbsp;**TKS** | Innovator | Full scholarship | First from Uzbekistan. Won a $10K hackathon. |
+| <img src="https://husanmavlonov.com/logos/comu.jpeg" width="28" height="28" alt="" align="absmiddle">&nbsp;**[Çanakkale Onsekiz Mart University](https://www.comu.edu.tr/)** | Researcher | Sep 2024 – Jun 2025 | Polymer electrolytes for Li-ion batteries. |
+| **Arifov Institute of Ion-Plasma and Laser Technologies** | Research assistant | Jun 2024 – Sep 2024 | Lithium-ion battery materials. Physics workshop for 250+ students. |
+| <img src="https://husanmavlonov.com/logos/qvant.jpeg" width="28" height="28" alt="" align="absmiddle">&nbsp;**[QVANT Youth](https://www.instagram.com/qvant_youth/)** | Leading author | Jun 2023 – Jun 2025 | Science writing for Central Asian youth. |
 
 ## Tech Stack
 
